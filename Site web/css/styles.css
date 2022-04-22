@@ -1,0 +1,44 @@
+section.top-page {
+    background: url("../image/cpu.jpg");
+    height: 100vh;
+    background-size: cover;
+    border: none;
+    
+}
+
+header.header img {width: 120px; }
+
+header.barrenavigation input { height: 30px;
+display: flex; 
+position:absolute;
+left: 450px;
+right: 200px;
+width: 300px;
+top: 50px;
+background-color:whitesmoke;
+color: whitesmoke;
+}
+
+header.changemysoftware { display: flex; 
+background-color:none;
+color: whitesmoke;
+
+}
+header.Kryptkod { display: flex;
+position: absolute;
+left: 140px;
+top: 30px;
+color: red;
+
+}
+
+header.menu { background-color: black;
+    color: unset=black;
+    
+
+
+}
+
+
+
+
